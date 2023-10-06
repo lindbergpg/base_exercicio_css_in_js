@@ -24,7 +24,6 @@ body {
     max-width: 80%;
   }
 }
-
 `
 
 export default EstiloGlobal
