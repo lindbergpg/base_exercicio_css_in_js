@@ -15,7 +15,7 @@ export const FormHero = styled.form`
     left: 0;
     width: 100%;
     height: 100%;
-    background-color: #a7727d;
+    background-color: ${(props) => props.theme.corPrincipal};
     content: '';
     opacity: 0.7;
   }
@@ -27,7 +27,7 @@ export const FormHero = styled.form`
 `
 export const ContainerHero = styled.div`
   position: relative;
-  color: #eee;
+  color: ${(props) => props.theme.corTexto};
 `
 
 export const TituloHero = styled.h2`
