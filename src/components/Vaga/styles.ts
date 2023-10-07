@@ -42,6 +42,3 @@ export const VagaLink = styled.a`
     display: block;
   }
 `
-
-// --cor-principal: #a7727d;
-// --cor-secundaria: #f9f5e7;

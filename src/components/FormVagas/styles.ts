@@ -38,6 +38,3 @@ export const Campo = styled.input`
     padding: 8px;
   }
 `
-
-// --cor-principal: #a7727d;
-// --cor-secundaria: #f9f5e7;

@@ -6,5 +6,3 @@ export const EstiloCabecalho = styled.header`
   text-align: center;
   padding: 24px 0;
 `
-// --cor-principal: #a7727d;
-// --cor-secundaria: #f9f5e7;
