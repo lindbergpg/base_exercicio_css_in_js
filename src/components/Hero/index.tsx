@@ -1,5 +1,4 @@
 import { FormHero, ContainerHero, TituloHero } from './styles'
-// import styles from './Hero.module.css'
 
 const Hero = () => (
   <FormHero>
